@@ -55,24 +55,20 @@ This project explores **New York City Public School SAT Results** to identify to
 ---
 
 ## ⚙️ Project Structure
-
-nyc-schools-analysis/
-├─ data/
-│ ├─ raw/
-│ │ └─ schools.csv
-│ └─ processed/
-├─ notebooks/
-│ └─ nyc_schools_analysis.ipynb
-├─ charts/
-│ └─ top_10_schools.png
-├─ src/
-│ └─ utils.py
-├─ environment.yml
-├─ README.md
-└─ report.html
-
-
-
+    nyc-schools-analysis/
+    ├─ data/
+    │ ├─ raw/
+    │ │ └─ schools.csv
+    │ └─ processed/
+    ├─ notebooks/
+    │ └─ nyc_schools_analysis.ipynb
+    ├─ charts/
+    │ └─ top_10_schools.png
+    ├─ src/
+    │ └─ utils.py
+    ├─ environment.yml
+    ├─ README.md
+    └─ report.html
 ---
 
 ## 🧠 Tools & Libraries
